@@ -70,6 +70,7 @@ An object is a collection of data and is made up of three types of data: the obj
 
 ![image](https://user-images.githubusercontent.com/34945430/165489527-17629884-1241-49e0-a47f-13795b3680e5.png)
 
+![image](https://user-images.githubusercontent.com/34945430/165489876-9ac88c65-3096-4dcc-96da-c62a71ea34f7.png)
 
 ## Basic Commands
 
