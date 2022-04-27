@@ -70,7 +70,7 @@ An object is a collection of data and is made up of three types of data: the obj
 
 ### Quick cheatsheet
 
-[powershell-basic-cheat-sheet2.pdf](https://github.com/Tabooabr/Powershell/files/8570647/powershell-basic-cheat-sheet2.pdf)
+![image](https://user-images.githubusercontent.com/34945430/165485326-f44295a3-6590-4121-942a-ebb072a7ca1b.png)
 
 
 ```powershell
