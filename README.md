@@ -68,6 +68,11 @@ An object is a collection of data and is made up of three types of data: the obj
 
 ## Basic Commands
 
+### Quick cheatsheet
+
+[powershell-basic-cheat-sheet2.pdf](https://github.com/Tabooabr/Powershell/files/8570647/powershell-basic-cheat-sheet2.pdf)
+
+
 ```powershell
 #-----------------------------#
 # Help / 'More info' commands #
